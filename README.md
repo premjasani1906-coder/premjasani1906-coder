@@ -1,4 +1,4 @@
-### Hi, I'm Prem 👋
+### Hi, I'm Prem 
 
 I'm a business student at **Tetr College of Business**, based in **New York**. I'm interested in
 finance, operations and automation. I write small tools that take the repetitive work out of
